@@ -1,4 +1,5 @@
-# Personal Portfolio Website in React
+# discord.gg/stan old website
+# وبسایت قبلی دیسکورد استامین
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
